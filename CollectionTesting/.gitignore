@@ -1,7 +1,5 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
-bin/
-*.class
 
 ### STS ###
 .apt_generated
@@ -10,6 +8,8 @@ bin/
 .project
 .settings
 .springBeans
+bin/
+*.class
 
 ### IntelliJ IDEA ###
 .idea
